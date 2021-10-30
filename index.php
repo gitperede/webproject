@@ -736,7 +736,7 @@
       </div>
       -->
       <div class="copyright">
-        &copy; Copyright <strong><span>La Finca de Cinto</span></strong>.  Noviembre 2021. Eduardo Pereda.
+        &copy; Copyright <strong><span>La Finca de Cinto</span></strong><br> Noviembre 2021 - Eduardo Pereda
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
