@@ -726,6 +726,7 @@
     <div class="container">
       <h3>La Finca de Cinto</h3>
       <p>Un paraje de relax en plena naturaleza de las Merindades</p>
+      <!-- eo
       <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -733,6 +734,7 @@
         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
+      -->
       <div class="copyright">
         &copy; Copyright <strong><span>La Finca de Cinto</span></strong>.  Noviembre 2021. Eduardo Pereda.
       </div>
